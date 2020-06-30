@@ -1,6 +1,6 @@
 let resumeData={
     "imagebaseurl":"http://localhost:3000/",
-    "name":"Devil",
+    "name":"Saloni",
     "role":"Currently Studying",
     "linkedinId":"https://www.linkedin.com/",
     "skypeid":"live:.cid.59b8762b9a3e9f9c",
