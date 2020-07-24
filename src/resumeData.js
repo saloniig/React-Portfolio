@@ -4,7 +4,7 @@ let resumeData={
     "role":"Currently Studying",
     "linkedinId":"https://www.linkedin.com/",
     "skypeid":"live:.cid.59b8762b9a3e9f9c",
-    "roleDescription":"I like triffle in frontend and web development and like to learn about new technologies, write technical articles or simply listem music in my free time.",
+    "roleDescription":"I like frontend and web development and like to learn about new technologies, write technical articles or simply listem music in my free time.",
     "socialLinks":[
         {
             "name":"linkedin",
